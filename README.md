@@ -11,19 +11,19 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/status-public%20proof%20surface-gold?style=for-the-badge)
-![Runtime](https://img.shields.io/badge/runtime-protected%20private%20layer-black?style=for-the-badge)
-![License](https://img.shields.io/badge/license-proprietary-red?style=for-the-badge)
+![Status](https://img.shields.io/static/v1?label=STATUS&message=PUBLIC%20PROOF%20SURFACE&color=D4AF37&style=for-the-badge)
+![Runtime](https://img.shields.io/static/v1?label=RUNTIME&message=PROTECTED%20PRIVATE%20LAYER&color=111827&style=for-the-badge)
+![License](https://img.shields.io/static/v1?label=LICENSE&message=PROPRIETARY%20%7C%20EVALUATION%20ONLY&color=B91C1C&style=for-the-badge)
 
-![Implementation](https://img.shields.io/badge/implementation-not%20included-lightgrey?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/open%20source-no-critical?style=for-the-badge)
-![Disclosure](https://img.shields.io/badge/disclosure-controlled-blueviolet?style=for-the-badge)
+![Implementation](https://img.shields.io/static/v1?label=IMPLEMENTATION&message=NOT%20INCLUDED&color=6B7280&style=for-the-badge)
+![Open Source](https://img.shields.io/static/v1?label=OPEN%20SOURCE&message=NO&color=DC2626&style=for-the-badge)
+![Disclosure](https://img.shields.io/static/v1?label=DISCLOSURE&message=CONTROLLED&color=7C3AED&style=for-the-badge)
 
-![Boundary](https://img.shields.io/badge/boundary-consequence%20admission-blue?style=flat-square)
-![Admissibility](https://img.shields.io/badge/admissibility-before%20effect-0f766e?style=flat-square)
-![Replay](https://img.shields.io/badge/replay-directional%20proof-4b5563?style=flat-square)
-![Receipts](https://img.shields.io/badge/receipts-protected%20private-111827?style=flat-square)
-![Runtime Law](https://img.shields.io/badge/runtime%20law-category%20surface-7c3aed?style=flat-square)
+![Boundary](https://img.shields.io/static/v1?label=BOUNDARY&message=CONSEQUENCE%20ADMISSION&color=2563EB&style=flat-square)
+![Admissibility](https://img.shields.io/static/v1?label=ADMISSIBILITY&message=BEFORE%20EFFECT&color=0F766E&style=flat-square)
+![Replay](https://img.shields.io/static/v1?label=REPLAY&message=DIRECTIONAL%20PROOF&color=4B5563&style=flat-square)
+![Receipts](https://img.shields.io/static/v1?label=RECEIPTS&message=PROTECTED%20PRIVATE&color=111827&style=flat-square)
+![Runtime Law](https://img.shields.io/static/v1?label=RUNTIME%20LAW&message=CATEGORY%20SURFACE&color=7C3AED&style=flat-square)
 
 <br/>
 
